@@ -1,0 +1,9 @@
+name: "Orgasmos Femeninos"
+navbar:
+  title: "Orgasmos Femeninos"
+  left:
+    - text: "Vibradores"
+      href: Vibradores.html
+    - text: "Sexualidad Femenina"
+      href: Sexualidad Femennina.html
+    
